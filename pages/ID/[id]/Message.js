@@ -502,7 +502,7 @@ if(authid){
 
     <Grid item xs={12} md={12} lg={12} >
             
-    <Typography >Let's start chatting!</Typography>
+    <Typography >Start chatting!</Typography>
        
         <form noValidate autoComplete="off" onSubmit={handleOnMessage}>
               
