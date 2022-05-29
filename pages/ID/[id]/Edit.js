@@ -8,7 +8,7 @@ import { useState,useEffect } from 'react';
 
 
 
-import NoteCard from '../../../components/Notecard';
+import NoteCard from '../../../components/NoteCard';
 import { Grid } from '@mui/material';
 import { Card } from '@mui/material';
 
