@@ -18,7 +18,7 @@ import firebaseApp from "../components/firebase"
 import firebase from "../components/firebase2"
 
 
-import NoteCard from '../components/Notecard';
+import NoteCard from '../components/NoteCard';
 import { Grid } from '@mui/material';
 
 import { makeStyles } from "@mui/styles"
